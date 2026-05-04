@@ -1,0 +1,11 @@
+=== BACKLOG STEAMPY ===
+Data: 03/05/2026 19:07:58
+Total de jogos: 1
+==================================================
+
+1. ID: 05460
+   Título: One Piece Unlimited Cruise 2: Awakening of a Hero
+   Console: Wii
+   Gênero: Adventure
+   Nota: 0.0
+

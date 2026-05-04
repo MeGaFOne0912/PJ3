@@ -1,0 +1,10 @@
+=== JOGOS RECENTES STEAMPY ===
+Data: 03/05/2026 19:06:26
+Total de jogos recentes: 1
+==================================================
+
+1. ID: 45700
+   Título: Gran Turismo 4
+   Console: PS2
+   Gênero: Racing
+

@@ -1,0 +1,14 @@
+=== HISTÓRICO DE SESSÕES STEAMPY ===
+Data: 03/05/2026 19:06:26
+Total de sessões: 1
+==================================================
+
+Tempo total jogado: 15.0h
+
+1. Jogo: Gran Turismo 4
+   Console: PS2
+   Tempo: 15.0h
+   Percentual: 1.0%
+   Status: pausado
+   Data: 03/05/2026 19:02
+
